@@ -60,4 +60,3 @@ To become a skilled Java Full Stack Developer by learning Java concepts step by 
 
 ---
 
-**Author:** Ashu Ks
