@@ -310,15 +310,6 @@ Because Java programs are compiled into bytecode, which is executed by the JVM o
 
 ---
 
-# Next Topic
+# N\
 
-**02-jdk-jre-jvm.md**
 
-Topics covered:
-
-- JDK
-- JRE
-- JVM
-- Compiler
-- Bytecode
-- Java Execution Flow
