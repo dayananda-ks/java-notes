@@ -1,5 +1,4 @@
 # Data Types in Java
-
 ## Overview
 
 A data type specifies the type of data a variable can store. Every variable in Java must have a data type.
