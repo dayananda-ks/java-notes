@@ -17,9 +17,7 @@ Examples:
 - Entering marks
 - Entering salary
 - Entering two numbers for calculation
-
 ---
-
 # Scanner Class
 
 The `Scanner` class is used to read input from the keyboard.
