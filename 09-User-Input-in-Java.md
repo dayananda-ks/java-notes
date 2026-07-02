@@ -1,7 +1,5 @@
 # User Input in Java
-
 ## Overview
-
 User input allows a program to receive data from the user while it is running.
 
 In Java, user input is commonly taken using the **Scanner** class, which is part of the `java.util` package.
