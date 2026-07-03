@@ -286,7 +286,6 @@ for (int number : numbers) {
 
 }
 ```
-
 Output
 
 ```text
@@ -296,7 +295,6 @@ Output
 40
 50
 ```
-
 ---
 
 # Loop Control Statements
