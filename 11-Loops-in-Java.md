@@ -87,7 +87,6 @@ public class Main {
 ```
 
 Output
-
 ```text
 1
 2
@@ -95,7 +94,6 @@ Output
 4
 5
 ```
-
 ---
 
 # Flow of for Loop
@@ -120,7 +118,6 @@ Update
 ---
 
 # 2. while Loop
-
 The `while` loop is used when the number of iterations is not known.
 
 ## Syntax
