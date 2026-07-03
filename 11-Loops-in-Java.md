@@ -5,13 +5,9 @@
 Loops are used to execute a block of code repeatedly until a specified condition becomes false.
 
 Instead of writing the same code multiple times, loops allow us to write it once and execute it many times.
-
 ---
-
 # Why Do We Need Loops?
-
 Loops are used to:
-
 - Reduce code repetition.
 - Execute code multiple times.
 - Iterate through collections and arrays.
