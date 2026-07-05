@@ -4,9 +4,7 @@
 A method is a block of code that performs a specific task. Instead of writing the same code multiple times, we can write it once inside a method and call it whenever needed.
 
 Methods improve code reusability, readability, and maintainability.
-
 ---
-
 # Why Do We Need Methods?
 
 Methods are used to:
