@@ -1,5 +1,4 @@
 # Methods in Java
-
 ## Overview
 
 A method is a block of code that performs a specific task. Instead of writing the same code multiple times, we can write it once inside a method and call it whenever needed.
