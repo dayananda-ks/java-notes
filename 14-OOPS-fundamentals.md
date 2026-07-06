@@ -1,7 +1,6 @@
 # Object-Oriented Programming (OOP) Fundamentals
 
 ## Overview
-
 Object-Oriented Programming (OOP) is a programming paradigm that organizes programs around **objects** instead of functions.
 
 An object represents a real-world entity with **data (properties)** and **behavior (methods)**.
