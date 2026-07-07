@@ -50,8 +50,6 @@ class ClassName {
 
     ClassName() {
 
-        // Constructor Body
-
     }
 
 }
