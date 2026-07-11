@@ -6,7 +6,6 @@ A **Package** in Java is a mechanism used to organize related classes, interface
 Packages help developers organize large projects, avoid naming conflicts, and control access.
 
 Think of a package like a **folder** in your computer.
-
 ```text
 Folder
 │
