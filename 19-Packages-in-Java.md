@@ -1,5 +1,4 @@
 # Packages in Java
-
 ## Overview
 
 A **Package** in Java is a mechanism used to organize related classes, interfaces, enums, and sub-packages into a single namespace.
