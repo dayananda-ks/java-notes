@@ -1,5 +1,4 @@
 # Inheritance in Java
-
 ## Overview
 
 Inheritance is one of the four pillars of Object-Oriented Programming (OOP).
