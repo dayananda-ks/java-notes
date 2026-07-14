@@ -1,7 +1,6 @@
 # Polymorphism in Java
 
 ## Overview
-
 Polymorphism is one of the four pillars of Object-Oriented Programming (OOP).
 
 The word **Polymorphism** comes from two Greek words:
