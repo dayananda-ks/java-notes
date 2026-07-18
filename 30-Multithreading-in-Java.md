@@ -461,7 +461,7 @@ A race condition occurs when multiple threads modify shared data simultaneously,
 
 A daemon thread is a background thread that supports other threads, such as the Garbage Collector.
 
----
+
 
 # Summary
 
