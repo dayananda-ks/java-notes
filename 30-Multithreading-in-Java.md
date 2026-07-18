@@ -76,7 +76,7 @@ There are two ways to create a thread.
 1. Extending the `Thread` class
 2. Implementing the `Runnable` interface
 
---
+---
 # Method 1: Extending Thread Class
 
 Example
