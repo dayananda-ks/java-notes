@@ -1,5 +1,4 @@
 # Multithreading in Java
-
 ## Overview
 
 Multithreading is the ability of a program to execute **multiple threads simultaneously**.
