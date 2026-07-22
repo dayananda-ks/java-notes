@@ -1,7 +1,6 @@
 # Java Networking
 
 ## Overview
-
 Java Networking allows Java applications running on different computers to communicate over a network.
 
 Using Java Networking, applications can:
