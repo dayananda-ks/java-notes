@@ -12,7 +12,6 @@ Annotations do not directly change the execution of a program. Instead, they pro
 - Frameworks (Spring, Hibernate, JUnit)
 
 Annotations were introduced in **Java 5**.
-
 ---
 
 # Why Do We Need Annotations?
