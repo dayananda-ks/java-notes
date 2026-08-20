@@ -60,6 +60,7 @@ Supported platforms include:
 Java provides:
 
 - Bytecode Verification : (Bytecode verification is a JVM security mechanism that checks the validity and safety of compiled bytecode before execution, preventing illegal operations and malformed or malicious bytecode from running.)
+- 
 - Strong Memory Management
 - No Pointer Arithmetic
 
