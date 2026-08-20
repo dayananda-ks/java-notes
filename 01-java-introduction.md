@@ -60,7 +60,8 @@ Supported platforms include:
 Java provides:
 
 - Bytecode Verification : Bytecode verification is a JVM security mechanism that checks the validity and safety of compiled bytecode before execution, preventing illegal operations and malformed or malicious bytecode from running.
-- Strong Memory Management : Java has strong memory management because the JVM automatically manages memory using Garbage Collection, reducing the need for manual memory allocation and deallocation. 
+- Strong Memory Management : Java has strong memory management because the JVM automatically manages memory using Garbage Collection, reducing the need for manual memory allocation and deallocation.
+- Metaspace is a JVM memory area that stores metadata about loaded classes and is allocated from native memory. 
 - No Pointer Arithmetic
 
 ---
