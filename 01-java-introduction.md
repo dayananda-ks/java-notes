@@ -299,28 +299,35 @@ Because Java programs are compiled into bytecode, which is executed by the JVM o
 - High Performance
 
 ---
-Java — Pros
-Advantage	Why it matters
-Platform independent	.class bytecode runs on any JVM
-Memory safety	No pointer arithmetic; bounds/access checks
-Garbage Collection	No manual free()/delete()
-Strongly typed	Many errors caught at compile time
-Good performance	JVM JIT compiler can optimize code at runtime
-Multithreading	Strong built-in concurrency support
-Huge ecosystem	Spring Boot, Hibernate, Maven, Gradle, etc.
-Enterprise adoption	Widely used for banking, backend, large systems
-Scalable	Good for large applications and distributed systems
-Backward compatibility	Strong compatibility across Java versions
-Java — Cons
-Disadvantage	Why it matters
-More verbose	Usually more code than Python/JavaScript
-Higher memory usage	JVM + object overhead + GC
-Startup time	Traditionally slower than native C/C++/Go
-GC pauses/overhead	Garbage collection consumes CPU and memory
-No direct memory control	Less control than C/C++
-Not ideal for low-level programming	OS kernels, device drivers, embedded systems
-Learning curve	JVM, OOP, collections, concurrency, Spring, etc. can be extensive
-Runtime required	Needs a JVM to execute
+## Java — Pros
+
+| Advantage | Why it matters |
+|---|---|
+| **Platform Independent** | `.class` bytecode can run on any system that has a compatible JVM. |
+| **Memory Safety** | No pointer arithmetic; JVM provides bounds and access checks. |
+| **Garbage Collection** | Automatically manages unused objects; no manual `free()` or `delete()`. |
+| **Strongly Typed** | Many type-related errors are detected at compile time. |
+| **Good Performance** | JVM's JIT compiler optimizes frequently executed code at runtime. |
+| **Multithreading** | Provides strong built-in support for concurrent and multithreaded applications. |
+| **Huge Ecosystem** | Large ecosystem including Spring Boot, Hibernate, Maven, Gradle, and many libraries. |
+| **Enterprise Adoption** | Widely used for banking, finance, enterprise applications, and backend systems. |
+| **Scalable** | Well suited for large-scale applications and distributed systems. |
+| **Backward Compatibility** | Java maintains strong compatibility between versions, making long-term maintenance easier. |
+
+---
+
+## Java — Cons
+
+| Disadvantage | Why it matters |
+|---|---|
+| **More Verbose** | Usually requires more code compared with languages such as Python or JavaScript. |
+| **Higher Memory Usage** | JVM overhead, object metadata, and garbage collection can require significant memory. |
+| **Startup Time** | JVM applications can have slower startup times than native applications such as C/C++ or Go. |
+| **GC Overhead** | Garbage collection consumes CPU and memory and can introduce latency depending on the workload and collector configuration. |
+| **Limited Direct Memory Control** | Java abstracts memory management, providing less low-level control than C/C++. |
+| **Not Ideal for Low-Level Programming** | Not generally suitable for OS kernels, device drivers, or hardware-level programming. |
+| **Learning Curve** | Java itself is manageable, but the ecosystem includes many concepts such as JVM, OOP, collections, concurrency, Spring, and JPA/Hibernate. |
+| **JVM Required** | Java applications require a compatible JVM/runtime environment to execute. |
 
 # Summary
 
