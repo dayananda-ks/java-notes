@@ -297,7 +297,8 @@ Because Java programs are compiled into bytecode, which is executed by the JVM o
 - Portable
 - Multithreaded
 - High Performance
-
+---
+JIT = A JVM component that makes frequently used Java code faster by converting it into native machine code during execution.
 ---
 ## Java — Pros
 
