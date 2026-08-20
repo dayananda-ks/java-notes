@@ -299,6 +299,28 @@ Because Java programs are compiled into bytecode, which is executed by the JVM o
 - High Performance
 
 ---
+Java — Pros
+Advantage	Why it matters
+Platform independent	.class bytecode runs on any JVM
+Memory safety	No pointer arithmetic; bounds/access checks
+Garbage Collection	No manual free()/delete()
+Strongly typed	Many errors caught at compile time
+Good performance	JVM JIT compiler can optimize code at runtime
+Multithreading	Strong built-in concurrency support
+Huge ecosystem	Spring Boot, Hibernate, Maven, Gradle, etc.
+Enterprise adoption	Widely used for banking, backend, large systems
+Scalable	Good for large applications and distributed systems
+Backward compatibility	Strong compatibility across Java versions
+Java — Cons
+Disadvantage	Why it matters
+More verbose	Usually more code than Python/JavaScript
+Higher memory usage	JVM + object overhead + GC
+Startup time	Traditionally slower than native C/C++/Go
+GC pauses/overhead	Garbage collection consumes CPU and memory
+No direct memory control	Less control than C/C++
+Not ideal for low-level programming	OS kernels, device drivers, embedded systems
+Learning curve	JVM, OOP, collections, concurrency, Spring, etc. can be extensive
+Runtime required	Needs a JVM to execute
 
 # Summary
 
